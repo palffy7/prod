@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://palffy7.github.io/prod/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://palffy7.github.io/prod/static/js/main.c83a152b.chunk.js",
+    "main.js.map": "https://palffy7.github.io/prod/static/js/main.c83a152b.chunk.js.map",
+    "runtime-main.js": "https://palffy7.github.io/prod/static/js/runtime-main.4c5ebc59.js",
+    "runtime-main.js.map": "https://palffy7.github.io/prod/static/js/runtime-main.4c5ebc59.js.map",
+    "static/js/2.d460aab8.chunk.js": "https://palffy7.github.io/prod/static/js/2.d460aab8.chunk.js",
+    "static/js/2.d460aab8.chunk.js.map": "https://palffy7.github.io/prod/static/js/2.d460aab8.chunk.js.map",
+    "index.html": "https://palffy7.github.io/prod/index.html",
+    "precache-manifest.ae663a4039a64936198e5d1e438ff4d3.js": "https://palffy7.github.io/prod/precache-manifest.ae663a4039a64936198e5d1e438ff4d3.js",
+    "service-worker.js": "https://palffy7.github.io/prod/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://palffy7.github.io/prod/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d460aab8.chunk.js.LICENSE.txt": "https://palffy7.github.io/prod/static/js/2.d460aab8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://palffy7.github.io/prod/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c5ebc59.js",
+    "static/js/2.d460aab8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c83a152b.chunk.js"
+  ]
+}
